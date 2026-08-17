@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Priyaprakash-1/Priyaprakash-1/output/github-contribution-grid-snake.svg" />
 # Hi, I'm Priya Tharsini 👋
 
 ### AI & Data Science Graduate | Machine Learning | Data Analytics | Generative AI
